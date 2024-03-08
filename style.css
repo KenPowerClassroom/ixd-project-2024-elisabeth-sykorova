@@ -1,3 +1,18 @@
 h1{
     color:rgb(124, 165, 107)
 }
+h2{
+    margin: 2px;
+}
+body{
+    display: flex; /* splits screen into columns, based on divs */
+}
+
+#links{
+    min-width: 200px;
+    background-color: bisque;
+}
+#linkList
+{
+    list-style-type: none;
+}
